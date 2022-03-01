@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands darling, or Great Brittains joy and hope on that noble Prince James Duke of Monmouth. Brave Monmouth, Englands glory, hated of none but Papist and Tory, mayst thou in thy noble fathers love remain, who happily over this land doth reign. Tune of, Young Jemmy, or Philander.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681-1684?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03093</idno>
+            <idno type="STC">Wing E2955</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[88]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[140]</idno>
+            <idno type="EEBO-CITATION">99887115</idno>
+            <idno type="PROQUEST">ocm99887115</idno>
+            <idno type="VID">183325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183325)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:3[88]; A5:2[116])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands darling, or Great Brittains joy and hope on that noble Prince James Duke of Monmouth. Brave Monmouth, Englands glory, hated of none but Papist and Tory, mayst thou in thy noble fathers love remain, who happily over this land doth reign. Tune of, Young Jemmy, or Philander.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Wright, J. Clark, W. Thackery and T. Passenger.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1681-1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Verse: "Young Jemmy is a lad ..."</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685 --  Poetry --  Early works to 1800.</term>
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="160" facs="tcp:183325:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <head>Englands Darling, OR <hi>Great Brittains</hi> Joy and hope on that Noble PRINCE <hi>JAMES</hi> Duke of <hi>MONMOUTH.</hi>
+            </head>
+            <argument>
+               <l>Brave <hi>Monmouth, Englands</hi> Glory,</l>
+               <l>Hated of none but Papiſt and Tory,</l>
+               <l>Mayſt thou in thy Noble Fathers love remain,</l>
+               <l>who happily over this Land doth Reign.</l>
+            </argument>
+            <opener>Tune of, <hi>Young Jemmy,</hi> or <hi>Philander.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>YOung <hi>Jemmy</hi> is a Lad</l>
+               <l>that's Royally deſcended;</l>
+               <l>With every Virtue clad,</l>
+               <l>by every Tongue commended:</l>
+               <l>A true and faithful <hi>Engliſh</hi> heart,</l>
+               <l>
+                  <hi>Great Brittains</hi> joy and hope,</l>
+               <l>And bravely will maintain their part</l>
+               <l>in ſpight of Turk and Pope.</l>
+            </lg>
+            <lg>
+               <l>Young <hi>Jemmy</hi> is a Lad</l>
+               <l>that hates all baſe pretences;</l>
+               <l>No <hi>Tory,</hi> Maſquerade,</l>
+               <l>with Popiſh ſham-pretences:</l>
+               <l>A Heart and Soul ſo great and juſt,</l>
+               <l>ſuch Conduct and Command,</l>
+               <l>A Champion in his Countries truſt</l>
+               <l>young <hi>Jemmy</hi> ſtill will ſtand.</l>
+            </lg>
+            <lg>
+               <l>Young <hi>Jemmy</hi> is a youth</l>
+               <l>who thinks it no tranſgreſſion</l>
+               <l>To ſtand up for the Truth,</l>
+               <l>and Proteſtant Profeſſion:</l>
+               <l>But Oh! he ſights with ſuch ſucceſs,</l>
+               <l>all mortal powers obey,</l>
+               <l>No god of war but muſt confeſs</l>
+               <l>young <hi>Jemmy</hi> heares the ſway.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>At <hi>Jemmy</hi>'s powerful voice</l>
+               <l>the Drums &amp; Trumpets ſounded;</l>
+               <l>And <hi>England</hi> did rejoyce</l>
+               <l>when <hi>Jemmy</hi>'s fame abounded.</l>
+               <l>Of <hi>Jemmy</hi> the victorious name</l>
+               <l>did through all <hi>Europe</hi> flie,</l>
+               <l>And all the nations did proclaim</l>
+               <l>his mate leſs Gallantry.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Maſtricht,</hi> and in <hi>France,</hi>
+               </l>
+               <l>in <hi>Germany,</hi> and <hi>Flanders,</hi>
+               </l>
+               <l>Young <hi>Jemmy</hi> did advance</l>
+               <l>amongſt the cheif Commanders:</l>
+               <l>By Sea and Land his fame did fly,</l>
+               <l>and all the Nations round,</l>
+               <l>Of <hi>Jemmy</hi>'s conſtant victory</l>
+               <l>and valour did reſound,</l>
+            </lg>
+            <lg>
+               <l>In <hi>Scotland Jemmy</hi>'s hand</l>
+               <l>diſpers'd the Whigg and Tory,</l>
+               <l>And <hi>B<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thwel Bridge</hi> will ſtand</l>
+               <l>to his eternal glory.</l>
+               <l>There he the Rebels force withſtood,</l>
+               <l>and did their Might oppoſe,</l>
+               <l>Both for the King and Countries good,</l>
+               <l>in ſpight of all his foes.</l>
+            </lg>
+            <lg>
+               <l>But oh! unhappy fates!</l>
+               <l>a curſe on Pride and Malice;</l>
+               <l>The Popiſh plotting States</l>
+               <l>have baniſh<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d him the Palace.</l>
+               <l>They turn'd him out of grace of late,</l>
+               <l>of dignity and fame,</l>
+               <l>And every mighty place of State,</l>
+               <l>yet <hi>Jemmy</hi>'s ſtill the ſame.</l>
+            </lg>
+            <lg>
+               <l>Maliciouſly they plot</l>
+               <l>(againſt all ſence and reaſon)</l>
+               <l>'Gainſt <hi>Shaftsbury</hi> and <hi>Scot,</hi>
+               </l>
+               <l>to Cloak their <hi>Popiſh</hi> Treaſon:</l>
+               <l>Tories and Papiſts all agree</l>
+               <l>to blaſt his ſpotleſs fame,</l>
+               <l>But 'ſpight of all their policy,</l>
+               <l>young <hi>Jemmy</hi>'s ſtill the ſame.</l>
+            </lg>
+            <lg>
+               <l>For ſtill to loſe his blood</l>
+               <l>young <hi>Jemmy</hi> does importune,</l>
+               <l>And for his Countries good,</l>
+               <l>to ſpend his Life and Fortune</l>
+               <l>For to ſupport the Church and State,</l>
+               <l>our Liberties and Laws,</l>
+               <l>Againſt their Malice, Plots, and Hate,</l>
+               <l>that wou<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d our rights oppoſe.</l>
+            </lg>
+            <lg>
+               <l>Let all good men implore</l>
+               <l>for <hi>Jemmy</hi>'s Reſtauration,</l>
+               <l>Whoſe conduct muſt reſtore</l>
+               <l>the ruines of our Nation:</l>
+               <l>That he to <hi>Charles</hi>'s praiſe may live,</l>
+               <l>our freedome to maintain,</l>
+               <l>When <hi>Jemmy</hi> ſhall his fame ret<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eive</l>
+               <l>and rein grace again.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J Wright. J. Clark. W, Thackery and T. Paſſenger<g ref="char:punc">▪</g>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
